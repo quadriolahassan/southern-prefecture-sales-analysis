@@ -160,15 +160,15 @@ The project demonstrates an end-to-end analytical workflow:
 
 ![Executive Dashboard](dashboards/executive_dashboard.png)
 
-### Location Analysis
+### Location Dashboard
 
 ![location Dashboard](dashboards/location_dashboard.png)
 
-### Category Analysis
+### Category Dashboard
 
 ![Category Dashboard](dashboards/category_dashboard.png)
 
-### Customer Analysis
+### Customer Dashboard
 
 ![Customer Dashboard](dashboards/customer_dashboard.png)
 
