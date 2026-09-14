@@ -129,14 +129,19 @@ The business shows strong momentum, with Ramen and Chicken categories and Chicag
 
 ### Grow
 •	Expand loyalty programs to convert high engagement into higher revenue share.
+
 •	Replicate successful strategies from Chicago and Seattle in weaker markets to balance geographic dependence.
+
 •	Promote premium menu items (like Curry Ramen and Fire Ramen) while bundling or upselling popular staples to maximize both revenue and volume.
 ### Protect
 •	Strengthen dine-in experience since it accounts for 69% of revenue, but simultaneously build resilience by improving delivery and to-go channels.
+
 •	Focus on reputation management, especially on Google, to protect brand perception and sustain growth.
 ### Optimize:
 •	Reassess and innovate the beverage category to reduce underperformance.
+
 •	Use data-driven promotions to align menu pricing with customer demand patterns.
+
 •	Target underperforming cities with localized marketing and menu adjustments to lift their contribution.
 
 ---
