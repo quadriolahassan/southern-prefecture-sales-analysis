@@ -145,3 +145,80 @@ The business shows strong momentum, with Ramen and Chicken categories and Chicag
 •	Target underperforming cities with localized marketing and menu adjustments to lift their contribution.
 
 ---
+
+## Portfolio Evidence
+
+This repository contains the Power BI analysis and supporting visual evidence from the Power BI dashboard.
+
+The project demonstrates an end-to-end analytical workflow:
+
+**Data Cleaning → Feature Engineering → Exploratory Data Analysis → Power BI → Business Insights → Recommendations**
+
+## Power BI Dashboard
+
+### Executive Dashboard
+
+![Executive Dashboard](dashboards/executive_dashboard.png)
+
+### Location Analysis
+
+![location Analysis](dashboards/location_analysis.png)
+
+### Category Analysis
+
+![Category Analysis](dashboards/category_analysis.png)
+
+### Customer Analysis
+
+![Customer Analysis](dashboards/customer_analysis.png)
+
+---
+
+## Project Files
+
+* **Power BI Dashboard** — [View the Power BI report](southern_prefecture_sales_analysis.pbix)
+* **Dashboard Screenshots** — [View all dashboard pages](dashboards/)
+
+## Analytical Workflow
+
+**Original Dataset → Power  Query → Data Cleaning → Exploratory Data Analysis → Power BI Data Modelling → DAX Measures → Interactive Dashboard → Business Insights & Recommendations**
+
+---
+
+## Project Structure
+
+```text
+superstore-sales-profitability-analysis/
+│
+├── README.md
+│
+├── notebooks/
+│   └── southern_prefecture_sales_analysis.ipynb
+│
+├── dashboards/
+│   ├── executive_dashboard.png
+│   ├── location_analysis.png
+│   ├── category_analysis.png
+│   ├── customer_analysis.png
+└── data/
+    └── README.md
+
+```
+
+## Author
+
+**Quadri Akanbi Olahassan**
+
+**Petroleum Engineer | Data Analytics | Transitioning into Machine Learning**
+
+---
+
+## Acknowledgements
+
+This project was developed as part of my ongoing data analytics and machine learning journey.
+
+The analysis uses the **Sample Southern Prefecture  dataset**, a widely used practice dataset for exploring sales, customer, product, and regional business performance.
+
+I acknowledge the original dataset source and the broader data analytics learning community for providing resources and examples that supported the development of this project.
+
+All analysis, data preparation, Power BI modelling, DAX measures, dashboard development, business conclusions, and recommendations presented in this repository were independently performed as part of this portfolio project.
