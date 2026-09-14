@@ -177,7 +177,7 @@ The project demonstrates an end-to-end analytical workflow:
 ## Project Files
 
 * **Power BI Dashboard** — [View the Power BI report](dataset/southern_prefecture_sales_analysis.pbix)
-* **Dashboard Screenshots** — [View all dashboard pages](dashboards/)
+* **Dashboard Screenshots** — [View all dashboard pages](dashboards)
 
 ## Analytical Workflow
 
