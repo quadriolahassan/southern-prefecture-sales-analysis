@@ -162,15 +162,15 @@ The project demonstrates an end-to-end analytical workflow:
 
 ### Location Analysis
 
-![location Analysis](dashboards/location_analysis.png)
+![location Dashboard](dashboards/location_dashboard.png)
 
 ### Category Analysis
 
-![Category Analysis](dashboards/category_analysis.png)
+![Category Dashboard](dashboards/category_dashboard.png)
 
 ### Customer Analysis
 
-![Customer Analysis](dashboards/customer_analysis.png)
+![Customer Dashboard](dashboards/customer_dashboard.png)
 
 ---
 
